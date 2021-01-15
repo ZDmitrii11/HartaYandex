@@ -5,4 +5,5 @@ function init(){
         zoom: 7
     });
     test(myMap);
+
 }
